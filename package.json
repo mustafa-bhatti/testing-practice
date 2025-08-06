@@ -1,0 +1,15 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "jest testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "Ghulam Mustafa Bhatti <gmbhatti42@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.5"
+  }
+}
